@@ -15,20 +15,20 @@ from . import LOG_CHANNEL, LOGS, Button, asst, eor, get_string, ultroid_cmd
 
 REPOMSG = """
 • **ULTROID USERBOT** •\n
-• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)
-• Addons - [Click Here](https://github.com/TeamUltroid/UltroidAddons)
-• Support - @UltroidSupport
+• Repo - [Click Here](https://github.com/infotechIT/Ultroid)
+• Addons - [Click Here](https://github.com/infotechIT/UltroidAddons)
+• Support - @infogroup_tele
 """
 
 RP_BUTTONS = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/TeamUltroid/Ultroid"),
-        Button.url("Addons", "https://github.com/TeamUltroid/UltroidAddons"),
+        Button.url(get_string("bot_3"), "https://github.com/infotechIT/Ultroid"),
+        Button.url("Addons", "https://github.com/infotechIT/UltroidAddons"),
     ],
-    [Button.url("Support Group", "t.me/ultroidsupport")],
+    [Button.url("Support Group", "t.me/infogroup_tele")],
 ]
 
-ULTSTRING = """🎇 **Thanks for Deploying Ultroid Userbot!**
+ULTSTRING = """🎇 **Thanks for Deploying InfoTech Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage."""
 
