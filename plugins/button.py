@@ -10,9 +10,9 @@
 • `{i}button <text with button format`
    create button u can reply to pic also
 
-Format:- `{i}button Hey There! @UseUltroid 😎.
-[Ultroid | t.me/theUltroid][Support | t.me/UltroidSupport | same]
-[TeamUltroid | t.me/TeamUltroid]`
+Format:- `{i}button Hey There! @Userbot 😎.
+[InfoTech Support | t.me/It_Bot_supporters][Support | t.me/It_Bot_supporters | same]
+[InfoTech| t.me/infotechIT]`
 """
 import os
 
