@@ -44,7 +44,7 @@ upage = 0
 SUP_BUTTONS = [
     [
         Button.url("• Repo •", url="https://github.com/infotechIT/Ultroid"),
-        Button.url("• Support •", url="t.me/infogroup_tele"),
+        Button.url("• Support •", url="https://t.me/It_Bot_supporters"),
     ],
 ]
 
@@ -53,7 +53,7 @@ SUP_BUTTONS = [
 
 @in_pattern(owner=True, func=lambda x: not x.text)
 async def inline_alive(o):
-    MSG = "• **Ultroid Userbot •**"
+    MSG = "• **USERGE USERBOT •**"
     WEB0 = InputWebDocument(
         "https://telegra.ph/file/acd4f5d61369f74c5e7a7.jpg", 0, "image/jpg", []
     )
@@ -63,7 +63,7 @@ async def inline_alive(o):
             text=MSG,
             include_media=True,
             buttons=SUP_BUTTONS,
-            title="Ultroid Userbot",
+            title="USERGE USERBOT",
             description="Userbot | Telethon",
             url=TLINK,
             thumb=WEB0,
