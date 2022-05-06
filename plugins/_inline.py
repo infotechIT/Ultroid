@@ -63,7 +63,7 @@ async def inline_alive(o):
             text=MSG,
             include_media=True,
             buttons=SUP_BUTTONS,
-            title="USERGE USERBOT",
+            title="USERGE BOT",
             description="Userbot | Telethon",
             url=TLINK,
             thumb=WEB0,
@@ -74,7 +74,7 @@ async def inline_alive(o):
         RES,
         private=True,
         cache_time=300,
-        switch_pm="👥 ULTROID PORTAL",
+        switch_pm="👥 XOBOTZ PORTAL",
         switch_pm_param="start",
     )
 
@@ -312,7 +312,7 @@ async def _(e):
         [
             Button.switch_inline(
                 "Piston Eval",
-                query="run javascript console.log('Hello Ultroid')",
+                query="run javascript console.log('Hello USERGE )",
                 same_peer=True,
             ),
             Button.switch_inline(
