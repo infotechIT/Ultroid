@@ -10,7 +10,7 @@
 • `{i}button <text with button format`
    create button u can reply to pic also
 
-Format:- `{i}button Hey There! @Userbot 😎.
+Format:- `{i}button Hey There! @USERGE BOT😎.
 [InfoTech Support | t.me/It_Bot_supporters][Support | t.me/It_Bot_supporters | same]
 [InfoTech| t.me/infotechIT]`
 """
