@@ -28,7 +28,7 @@ RP_BUTTONS = [
     [Button.url("Support Group", "https://t.me/It_Bot_supporters")],
 ]
 
-ULTSTRING = """🎇 **Thanks for Deploying USERGE USERBOT!**
+ULTSTRING = """🎇 **Thanks for Deploying USERGE BOT!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage."""
 
