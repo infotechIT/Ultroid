@@ -17,7 +17,7 @@ REPOMSG = """
 • **ULTROID USERBOT** •\n
 • Repo - [Click Here](https://github.com/infotechIT/Ultroid)
 • Addons - [Click Here](https://github.com/infotechIT/UltroidAddons)
-• Support - @infogroup_tele
+• Support - @It_Bot_supporters
 """
 
 RP_BUTTONS = [
@@ -25,10 +25,10 @@ RP_BUTTONS = [
         Button.url(get_string("bot_3"), "https://github.com/infotechIT/Ultroid"),
         Button.url("Addons", "https://github.com/infotechIT/UltroidAddons"),
     ],
-    [Button.url("Support Group", "t.me/infogroup_tele")],
+    [Button.url("Support Group", "https://t.me/It_Bot_supporters")],
 ]
 
-ULTSTRING = """🎇 **Thanks for Deploying InfoTech Userbot!**
+ULTSTRING = """🎇 **Thanks for Deploying USERGE USERBOT!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage."""
 
